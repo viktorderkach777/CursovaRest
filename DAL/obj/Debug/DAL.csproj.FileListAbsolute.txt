@@ -94,3 +94,15 @@ C:\Users\Віктор\Desktop\AAA - Cursova\DAL\obj\Debug\DAL.csproj.CoreCompile
 C:\Users\Віктор\Desktop\AAA - Cursova\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\Віктор\Desktop\AAA - Cursova\DAL\obj\Debug\DAL.dll
 C:\Users\Віктор\Desktop\AAA - Cursova\DAL\obj\Debug\DAL.pdb
+D:\Cursovatest\CursovaRest\DAL\bin\Debug\DAL.dll.config
+D:\Cursovatest\CursovaRest\DAL\bin\Debug\DAL.dll
+D:\Cursovatest\CursovaRest\DAL\bin\Debug\DAL.pdb
+D:\Cursovatest\CursovaRest\DAL\bin\Debug\EntityFramework.dll
+D:\Cursovatest\CursovaRest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cursovatest\CursovaRest\DAL\bin\Debug\EntityFramework.xml
+D:\Cursovatest\CursovaRest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cursovatest\CursovaRest\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Cursovatest\CursovaRest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Cursovatest\CursovaRest\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Cursovatest\CursovaRest\DAL\obj\Debug\DAL.dll
+D:\Cursovatest\CursovaRest\DAL\obj\Debug\DAL.pdb

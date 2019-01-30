@@ -136,3 +136,18 @@ C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulW
 C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CopyComplete
 C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
 C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+D:\Cursovatest\CursovaRest\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+D:\Cursovatest\CursovaRest\RESTFulWCFService\bin\RESTFulWCFService.dll
+D:\Cursovatest\CursovaRest\RESTFulWCFService\bin\RESTFulWCFService.pdb
+D:\Cursovatest\CursovaRest\RESTFulWCFService\bin\DAL.dll
+D:\Cursovatest\CursovaRest\RESTFulWCFService\bin\EntityFramework.dll
+D:\Cursovatest\CursovaRest\RESTFulWCFService\bin\EntityFramework.SqlServer.dll
+D:\Cursovatest\CursovaRest\RESTFulWCFService\bin\DAL.pdb
+D:\Cursovatest\CursovaRest\RESTFulWCFService\bin\DAL.dll.config
+D:\Cursovatest\CursovaRest\RESTFulWCFService\bin\EntityFramework.xml
+D:\Cursovatest\CursovaRest\RESTFulWCFService\bin\EntityFramework.SqlServer.xml
+D:\Cursovatest\CursovaRest\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojAssemblyReference.cache
+D:\Cursovatest\CursovaRest\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+D:\Cursovatest\CursovaRest\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CopyComplete
+D:\Cursovatest\CursovaRest\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+D:\Cursovatest\CursovaRest\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
