@@ -1,0 +1,96 @@
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\bin\Debug\DAL.dll.config
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\bin\Debug\DAL.dll
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\bin\Debug\DAL.pdb
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\bin\Debug\EntityFramework.dll
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\bin\Debug\EntityFramework.xml
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\obj\Debug\DAL.dll
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\DAL\obj\Debug\DAL.pdb
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\bin\Debug\DAL.dll.config
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\bin\Debug\DAL.dll
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\bin\Debug\DAL.pdb
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\obj\Debug\DAL.dll
+C:\Users\user.STEP.004\Downloads\WCF_Rest\DAL\obj\Debug\DAL.pdb
+G:\WCF_Rest - Cursova\DAL\bin\Debug\DAL.dll.config
+G:\WCF_Rest - Cursova\DAL\bin\Debug\DAL.dll
+G:\WCF_Rest - Cursova\DAL\bin\Debug\DAL.pdb
+G:\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.dll
+G:\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.xml
+G:\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\WCF_Rest - Cursova\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\WCF_Rest - Cursova\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\WCF_Rest - Cursova\DAL\obj\Debug\DAL.dll
+G:\WCF_Rest - Cursova\DAL\obj\Debug\DAL.pdb
+E:\WCF_Rest - Cursova\DAL\bin\Debug\DAL.dll.config
+E:\WCF_Rest - Cursova\DAL\bin\Debug\DAL.dll
+E:\WCF_Rest - Cursova\DAL\bin\Debug\DAL.pdb
+E:\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.dll
+E:\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.xml
+E:\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\WCF_Rest - Cursova\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\WCF_Rest - Cursova\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\WCF_Rest - Cursova\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\WCF_Rest - Cursova\DAL\obj\Debug\DAL.dll
+E:\WCF_Rest - Cursova\DAL\obj\Debug\DAL.pdb
+G:\WCF_Rest - Cursova\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\bin\Debug\DAL.dll.config
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\bin\Debug\DAL.dll
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\bin\Debug\DAL.pdb
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\obj\Debug\DAL.dll
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\DAL\obj\Debug\DAL.pdb
+E:\AAA - Cursova\DAL\bin\Debug\DAL.dll.config
+E:\AAA - Cursova\DAL\bin\Debug\DAL.dll
+E:\AAA - Cursova\DAL\bin\Debug\DAL.pdb
+E:\AAA - Cursova\DAL\bin\Debug\EntityFramework.dll
+E:\AAA - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\AAA - Cursova\DAL\bin\Debug\EntityFramework.xml
+E:\AAA - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\AAA - Cursova\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\AAA - Cursova\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\AAA - Cursova\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\AAA - Cursova\DAL\obj\Debug\DAL.dll
+E:\AAA - Cursova\DAL\obj\Debug\DAL.pdb
+G:\AAA - Cursova\DAL\bin\Debug\DAL.dll.config
+G:\AAA - Cursova\DAL\bin\Debug\DAL.dll
+G:\AAA - Cursova\DAL\bin\Debug\DAL.pdb
+G:\AAA - Cursova\DAL\bin\Debug\EntityFramework.dll
+G:\AAA - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\AAA - Cursova\DAL\bin\Debug\EntityFramework.xml
+G:\AAA - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\AAA - Cursova\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+G:\AAA - Cursova\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\AAA - Cursova\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\AAA - Cursova\DAL\obj\Debug\DAL.dll
+G:\AAA - Cursova\DAL\obj\Debug\DAL.pdb
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\bin\Debug\DAL.dll.config
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\bin\Debug\DAL.dll
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\bin\Debug\DAL.pdb
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\obj\Debug\DAL.dll
+C:\Users\Віктор\Desktop\AAA - Cursova\DAL\obj\Debug\DAL.pdb

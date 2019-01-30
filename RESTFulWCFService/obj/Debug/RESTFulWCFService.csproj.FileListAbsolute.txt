@@ -1,0 +1,138 @@
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.dll
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.pdb
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+C:\Users\user\Downloads\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+C:\Users\user\Downloads\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.dll
+C:\Users\user\Downloads\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.pdb
+C:\Users\user\Downloads\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+C:\Users\user\Downloads\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+C:\Users\thebe\Downloads\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+C:\Users\thebe\Downloads\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.dll
+C:\Users\thebe\Downloads\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.pdb
+C:\Users\thebe\Downloads\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojResolveAssemblyReference.cache
+C:\Users\thebe\Downloads\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Downloads\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+C:\Users\thebe\Downloads\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\bin\RESTFulWCFService.dll
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\bin\RESTFulWCFService.pdb
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojAssemblyReference.cache
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\bin\DAL.dll
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\bin\EntityFramework.dll
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\bin\EntityFramework.SqlServer.dll
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\bin\DAL.pdb
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\bin\DAL.dll.config
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\bin\EntityFramework.xml
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\bin\EntityFramework.SqlServer.xml
+C:\Users\thebe\Desktop\RESTFulWCFService (1)\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CopyComplete
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\bin\RESTFulWCFService.dll
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\bin\RESTFulWCFService.pdb
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\bin\DAL.dll
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\bin\EntityFramework.dll
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\bin\EntityFramework.SqlServer.dll
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\bin\DAL.pdb
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\bin\DAL.dll.config
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\bin\EntityFramework.xml
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\bin\EntityFramework.SqlServer.xml
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojAssemblyReference.cache
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CopyComplete
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+C:\Users\user.STEP.004\Downloads\WCF_Rest\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+G:\WCF_Rest - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+G:\WCF_Rest - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll
+G:\WCF_Rest - Cursova\RESTFulWCFService\bin\RESTFulWCFService.pdb
+G:\WCF_Rest - Cursova\RESTFulWCFService\bin\DAL.dll
+G:\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.dll
+G:\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.dll
+G:\WCF_Rest - Cursova\RESTFulWCFService\bin\DAL.pdb
+G:\WCF_Rest - Cursova\RESTFulWCFService\bin\DAL.dll.config
+G:\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.xml
+G:\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.xml
+G:\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojAssemblyReference.cache
+G:\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+G:\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CopyComplete
+G:\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+G:\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+E:\WCF_Rest - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+E:\WCF_Rest - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll
+E:\WCF_Rest - Cursova\RESTFulWCFService\bin\RESTFulWCFService.pdb
+E:\WCF_Rest - Cursova\RESTFulWCFService\bin\DAL.dll
+E:\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.dll
+E:\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.dll
+E:\WCF_Rest - Cursova\RESTFulWCFService\bin\DAL.pdb
+E:\WCF_Rest - Cursova\RESTFulWCFService\bin\DAL.dll.config
+E:\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.xml
+E:\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.xml
+E:\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojAssemblyReference.cache
+E:\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+E:\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CopyComplete
+E:\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+E:\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\bin\RESTFulWCFService.pdb
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\bin\DAL.dll
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.dll
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.dll
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\bin\DAL.pdb
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\bin\DAL.dll.config
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.xml
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.xml
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojAssemblyReference.cache
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CopyComplete
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+C:\Users\Віктор\Desktop\WCF_Rest - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+E:\AAA - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+E:\AAA - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll
+E:\AAA - Cursova\RESTFulWCFService\bin\RESTFulWCFService.pdb
+E:\AAA - Cursova\RESTFulWCFService\bin\DAL.dll
+E:\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.dll
+E:\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.dll
+E:\AAA - Cursova\RESTFulWCFService\bin\DAL.pdb
+E:\AAA - Cursova\RESTFulWCFService\bin\DAL.dll.config
+E:\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.xml
+E:\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.xml
+E:\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojAssemblyReference.cache
+E:\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+E:\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CopyComplete
+E:\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+E:\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+G:\AAA - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+G:\AAA - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll
+G:\AAA - Cursova\RESTFulWCFService\bin\RESTFulWCFService.pdb
+G:\AAA - Cursova\RESTFulWCFService\bin\DAL.dll
+G:\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.dll
+G:\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.dll
+G:\AAA - Cursova\RESTFulWCFService\bin\DAL.pdb
+G:\AAA - Cursova\RESTFulWCFService\bin\DAL.dll.config
+G:\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.xml
+G:\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.xml
+G:\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojAssemblyReference.cache
+G:\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+G:\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CopyComplete
+G:\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+G:\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\bin\RESTFulWCFService.dll
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\bin\RESTFulWCFService.pdb
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\bin\DAL.dll
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.dll
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.dll
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\bin\DAL.pdb
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\bin\DAL.dll.config
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.xml
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\bin\EntityFramework.SqlServer.xml
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csprojAssemblyReference.cache
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CopyComplete
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+C:\Users\Віктор\Desktop\AAA - Cursova\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb

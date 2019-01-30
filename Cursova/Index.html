@@ -1,0 +1,388 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Tourist App</title>
+
+    <!--favicon-->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <!--favicon-->    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+          crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-language/v0.10.0/mapbox-gl-language.js'></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-md5/2.10.0/js/md5.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">   
+    <link rel="stylesheet" href="TouristApp.css">
+    <script src="CurrentWeather.js"></script>
+    <script src="TouristApp.js"></script>
+</head>
+
+<body>
+    <header id="mainHeader" role="banner">
+
+        <nav class="navbar navbar-expand-md bg-primary navbar-dark ">
+            <a class="navbar-brand" href="#">
+                <span id="myHeader"><sup>&copy;</sup>Tourist App</span>
+            </a>
+        </nav>
+        <nav id="menu-weather" class="navbar navbar-expand-md bg-primary navbar-dark ">
+
+            <div class="navbar-collapse collapse justify-content-between ">
+
+                <ul class="navbar-nav mr-auto" id="mapSetting-weather">
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop1" data-toggle="dropdown">
+                            Map's zoom
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#" data-index="1">1</a>
+                            <a class="dropdown-item" href="#" data-index="2">2</a>
+                            <a class="dropdown-item" href="#" data-index="3">3</a>
+                            <a class="dropdown-item" href="#" data-index="4">4</a>
+                            <a class="dropdown-item" href="#" data-index="5">5</a>
+                            <a class="dropdown-item" href="#" data-index="6">6</a>
+                            <a class="dropdown-item" href="#" data-index="7">7</a>
+                            <a class="dropdown-item" href="#" data-index="8">8</a>
+                            <a class="dropdown-item" href="#" data-index="9">9</a>
+                            <a class="dropdown-item" href="#" data-index="10">10</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop2" data-toggle="dropdown">
+                            Map's style
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#" data-style="basic">Basic</a>
+                            <a class="dropdown-item" href="#" data-style="streets">Streets</a>
+                            <a class="dropdown-item" href="#" data-style="bright">Bright</a>
+                            <a class="dropdown-item" href="#" data-style="light">Light</a>
+                            <a class="dropdown-item" href="#" data-style="dark">Dark</a>
+                            <a class="dropdown-item" href="#" data-style="satellite">Satellite</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop6" data-toggle="dropdown">
+                            Map's rotation
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#" data-rotation="true">True</a>
+                            <a class="dropdown-item" href="#" data-rotation="false">False</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop3" data-toggle="dropdown">
+                            Map's language
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#" data-language="ar">Arabic</a>
+                            <a class="dropdown-item" href="#" data-language="de">German</a>
+                            <a class="dropdown-item" href="#" data-language="en">English</a>
+                            <a class="dropdown-item" href="#" data-language="es">Spanish</a>
+                            <a class="dropdown-item" href="#" data-language="fr">French</a>
+                            <a class="dropdown-item" href="#" data-language="ja">Japan</a>
+                            <a class="dropdown-item" href="#" data-language="ko">Korean</a>
+                            <a class="dropdown-item" href="#" data-language="pt">Portuguese</a>
+                            <a class="dropdown-item" href="#" data-language="zh">Chinese</a>
+                            <a class="dropdown-item" href="#" data-language="mul">Multilanguage</a>
+                            <a class="dropdown-item" href="#" data-language="ru">Russian</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop4" data-toggle="dropdown">
+                            Marker's color
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#" style="background-color: #3FB1CE; color: white" data-color="#3FB1CE">Default</a>
+                            <a class="dropdown-item" href="#" style="background-color: aqua; color: white" data-color="aqua">Aqua</a>
+                            <a class="dropdown-item" href="#" style="background-color: black; color: white" data-color="black">Black</a>
+                            <a class="dropdown-item" href="#" style="background-color: blue; color: white" data-color="blue">Blue</a>
+                            <a class="dropdown-item" href="#" style="background-color: brown; color: white" data-color="brown">Brown</a>
+                            <a class="dropdown-item" href="#" style="background-color: coral; color: white" data-color="coral">Coral</a>
+                            <a class="dropdown-item" href="#" style="background-color: deepskyblue; color: white" data-color="deepskyblue">Deepskyblue</a>
+                            <a class="dropdown-item" href="#" style="background-color: fuchsia; color: white" data-color="fuchsia">Fuchsia</a>
+                            <a class="dropdown-item" href="#" style="background-color: gold; color: white" data-color="gold">Gold</a>
+                            <a class="dropdown-item" href="#" style="background-color: green; color: white" data-color="green">Green</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop5" data-toggle="dropdown">
+                            Marker's draggable
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#" data-draggable="true">True</a>
+                            <a class="dropdown-item" href="#" data-draggable="false">False</a>
+                        </div>
+                    </li>
+                    <a id="toTourist" class="nav-link" href="#">For tourists </a>
+
+                </ul>
+                <ul class="navbar-nav">
+                    <a id="secondPage-weather" class="nav-link" href="#">About programm</a>
+                </ul>
+            </div>
+        </nav>
+        <nav id="menu" class="navbar navbar-expand-md bg-primary navbar-dark ">
+
+            <div class="navbar-collapse collapse justify-content-between ">
+
+                <ul class="navbar-nav mr-auto" id="mapSetting">
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="map-markers" data-toggle="dropdown" data-current-icon="all">
+                            Map's markers
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#" data-icon="theatre">Theatre</a>
+                            <a class="dropdown-item" href="#" data-icon="museum">Museum</a>
+                            <a class="dropdown-item" href="#" data-icon="lodging">Hotel</a>
+                            <a class="dropdown-item" href="#" data-icon="all">All</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="working-time" data-toggle="dropdown" data-current-time="13">
+                            Work time of the point
+                        </a>
+                        <div class="dropdown-menu">
+                            <div class="dropdown-item" href="#">
+                                <div class="range-slider">
+                                    <input class="input-range" id="input-time" type="range" step="1" value="13" min="0" max="24" list="tickmarks">
+                                    <datalist id="tickmarks">
+                                        <option value="0">
+                                        <option value="2">
+                                        <option value="4">
+                                        <option value="6">
+                                        <option value="8">
+                                        <option value="10">
+                                        <option value="12">
+                                        <option value="14">
+                                        <option value="16">
+                                        <option value="18">
+                                        <option value="20">
+                                        <option value="22">
+                                        <option value="24">
+                                    </datalist>
+                                    <span class="range-value time"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="rating" data-toggle="dropdown" data-current-rate="0">
+                            Point's rating
+                        </a>
+                        <div class="dropdown-menu">
+                            <div class="dropdown-item" href="#">
+                                <div class="range-slider">
+                                    <input class="input-range" id="input-rate" type="range" step="1" value="0" min="0" max="5" list="tickmarks">
+                                    <datalist id="tickmarks">
+                                        <option value="0">
+                                        <option value="1">
+                                        <option value="2">
+                                        <option value="3">
+                                        <option value="4">
+                                        <option value="5">
+                                    </datalist>
+                                    <span class="range-value rate"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <a id="toWeather" class="nav-link" href="#">Current weather</a>
+
+                </ul>
+                <ul class="navbar-nav">
+                    <a id="secondPage" class="nav-link" href="#">About programm</a>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <div id="weathermap" class="container" data-placetype="city" data-cityname="Rivne" data-coordx="0" data-coordy="0" data-marker-centerX="0" data-marker-centerY="0" data-zoom="6"
+         data-language="en" data-marker-color="#3FB1CE" data-marker-draggable="true" data-map-rotation="true" data-map-style="mapbox://styles/mapbox/streets-v9" data-longitude="26.25" data-latitude="50.61">
+        <div id='map-currentweather'></div>
+        <div id="entercity" class="container">
+            <div class="row" id="appSummary">
+                <div class="col text-center text-primary">
+                    <h3>Enter City Name</h3>
+                </div>
+            </div>
+        </div>
+
+        <div id="search" class="container">
+            <div class="row form-group form-inline" id="rowDiv">
+                <div class="col text-center text-primary">
+
+                    <input type="text" name="city" id="city" class="form-control" placeholder="City Name">
+                    <button id="submitWeather" class="btn btn-primary"> Search City</button>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="container">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-toggle="tab" href="#home">Current weather</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#menu1">Some additional data about this city</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#menu2">City wind data</a>
+                </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div id="home" class="container tab-pane active">
+                    <br>
+                    <div id="show"> </div>                    
+                </div>
+                <div id="menu1" class="container tab-pane fade">
+                    <br>
+                    <div id="show1" style="margin-left:20%">
+                    </div>
+                </div>
+                <div id="menu2" class="container tab-pane fade">
+                    <br>
+                    <div id="show2" style="margin-left:20%">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="about" class="container">
+        <p>This application is designed to help tourists.</p>
+        <p>The user must first register.</p>
+        <p>The user can remove objects from the map by selecting the appropriate menu items.</p>
+        <p>This app is also designed to detect weather at a specific geographic location or in a specific city.</p>
+        <p>To find out the weather in some city by input enter the name of this city into the input with placeholder 'City Name' and click button "Search city".</p>
+        <p>To find out the weather at a particular point of the map, you must right-click the mouse and select the menu item "Create Marker".</p>
+        <p>If the marker has the form of a "cross" then it means that it is possible to obtain weather data from a settlement (city, town or village) by this coordinate.<p>
+        <p>If the marker has the form of a "hand", it is possible to obtain data about the weather in the nearest town, the data of which is in the bases of "OpenWeatherMap".</p>
+        <p>To find out the weather in a specific place where the marker is already installed, just click on the marker with the left mouse button.</p>
+        <p>Before creating a marker, you can select its color by using the menu item "Marker's color" and determine whether or not it is possible to drag this marker using the menu item "Marker's draggable".</p>
+        <p> At any time you can determine the possibility of rotation of the map after right-clicking the mouse using the menu item "Maps rotation".</p>
+        <p>At any time you can also define zooming and language of the map by using the appropriate menu item.</p>
+        <p>Please note that after changing the language on the map, you will not be able to create and delete the markers with the right mouse button.</p>
+        <p>You can remove the marker by right-clicking the mouse and selecting the item "Delete marker".</p>
+        <p>
+            If the city name is different from the one you expect, you can remove the marker, zoom in on the map, and create a new marker in the appropriate location.
+            You can also drag the marker to the corresponding point and select the menu item "Create popup".
+        </p>
+
+    </div>
+
+    <div class="container" id="formOfRegistration">
+        <h2>Fill the form please:</h2>
+
+        <div class="row" id="mainFrameDiv" style="background-color:honeydew;">
+            <div id="left" class="col-sm-6">
+                <span><sup>&copy;</sup>Tourist app helps to enjoy your travel or business trip.</span>
+            </div>
+            <div id="right" class="col-sm-6">
+
+                <div class="row">
+                    <div id="singin_button" class="signIn container col-sm-6">
+                        Sign In
+                    </div>
+                    <div id="register_button" class="register container col-sm-6">
+                        Register
+                    </div>
+                </div>
+                <form method="post" action="" name="registrationForm">
+                    <div class="form-group registration-form">
+                        <label for="fullname">Full name</label>
+                        <input type="text" class="form-control" id="fullname" name="first_name">
+                    </div>
+                    <div class="form-group singin-form">
+                        <label for="usernameOrEmail">Username or email</label>
+                        <input type="text" class="form-control" id="usernameOrEmail" name="user_name_email">
+                    </div>
+                    <div class="form-group registration-form">
+                        <label for="username">Username</label>
+                        <input type="text" class="form-control" id="username" name="user_name">
+                    </div>
+                    <div class="form-group registration-form">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control" id="email" name="user_email">
+                    </div>
+                    <div class="form-group registration-form">
+                        <label for="emailconfirmation">Email confirmation</label>
+                        <input type="email" class="form-control" id="emailconfirmation" name="user_email_again">
+                    </div>
+                    <div class="form-group ">
+                        <label for="pwd">Password</label>
+                        <input type="password" class="form-control" id="pwd" name="user_password">
+                    </div>
+                    <div class="form-group form-check">
+                        <label class="form-check-label">
+                            <input class="form-check-input" type="checkbox" name="remember"> Remember me
+                        </label>
+                    </div>
+                    <div>
+                        <button type="submit" id="submitButton" class="btn btn-success" data-registred="0"></button>
+                        <button type="button" id="goForwardButton" class="btn btn-success">Go forward!</button>
+                        <div class="alert formalert">
+                            <strong id="alert_main_word"></strong> <span id="alert_message"></span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div id="main" class="container">
+        <div id='map' data-counter="0" data-layer="0"></div>
+    </div>
+
+    <footer id="pageFooter" class="d-none d-lg-block bg-primary">
+        <div class="container">
+            <div>
+                <div id="foot" class="text-center">
+                    <p class="glow"><sup>&copy;</sup>Tourist App</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+            crossorigin="anonymous"></script>
+</body>
+
+</html>

@@ -1,0 +1,263 @@
+#rowDiv {
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
+#city {
+    height: 40px;
+    font-size: 20px;
+}
+
+#submitWeather {
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#show {
+    margin: auto;
+    width: 60%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+#map {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 80%;
+}
+
+#map-currentweather {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 40%;
+}
+
+.mapboxgl-popup {
+    max-width: 200px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.custom-menu {
+    display: none;
+    z-index: 1000;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid #CCC;
+    white-space: nowrap;
+    font-family: sans-serif;
+    background: #FFF;
+    color: #333;
+    border-radius: 5px;
+    background-color: lightyellow;
+}
+
+    .custom-menu li {
+        padding: 8px 12px;
+        cursor: pointer;
+    }
+
+        .custom-menu li:hover {
+            background-color: deepskyblue;
+        }
+
+.tab-content img {
+    width: 50px;
+}
+
+
+nav ul, ul.menu {
+    list-style: none;
+}
+
+header#mainHeader {
+    height: 185px;
+}
+
+
+footer, header {
+    display: block;
+}
+
+    footer#pageFooter {
+        padding: 2em;
+    }
+
+        footer#pageFooter p {
+            margin-bottom: 1em;
+        }
+
+.navbar-dark .navbar-nav .nav-link {
+    color: greenyellow;
+}
+
+    .navbar-dark .navbar-nav .nav-link:visited {
+        color: greenyellow;
+    }
+
+    .navbar-dark .navbar-nav .nav-link:hover {
+        color: lightcoral;
+    }
+
+#foot {
+    color: yellow;
+    padding-top: 20px;
+}
+
+#myHeader {
+    color: yellow;
+    font-size: 130%;
+}
+
+#weathermap {
+    height: 1200px;
+}
+
+#main {
+    height: 1200px;
+}
+
+#entercity {
+    margin: 30px;
+}
+
+#search {
+    margin-bottom: 30px
+}
+
+#about {
+    color: dodgerblue;
+    font-size: 150%;
+    height: 1200px;
+    display: none;
+}
+
+.dropdown-item:hover {
+    background-color: deepskyblue;
+}
+
+a.dropdown-item.selected {
+    background-color: greenyellow;
+}
+
+.dropdown-menu {
+    background-color: lightyellow;
+}
+
+
+input[type=range]::-webkit-slider-runnable-track {
+    background: linear-gradient(to right, blue, pink, yellow, lightyellow, yellow, pink, blue);
+    border-radius: 10px;
+}
+
+
+/*//////////////////////////////////////////*/
+
+.register, .signIn {
+    color: #444;
+    border: 1px solid #CCC;
+    cursor: pointer;
+    vertical-align: middle;
+    padding: 5px;
+    text-align: center;
+}
+
+#mainFrameDiv {
+    border-style: solid;
+    border-width: 1px;
+}
+
+
+.register:active, .signIn:active {
+    color: red;
+}
+
+.register:hover, .signIn:hover {
+    border-bottom-color: coral;
+    border-bottom-width: 3px;
+}
+
+.selected-btn {
+    background: deepskyblue;
+    color: yellow;
+    border-bottom-color: coral;
+    border-bottom-width: 3px;
+}
+
+#submitButton {
+    text-align: center;
+    margin: 3%;
+    width: 30%;
+}
+
+.form-group {
+    margin: 3%;
+}
+
+.formalert {
+    text-align: center;
+}
+
+
+#formOfRegistration {
+    height: 800px;
+}
+
+#goForwardButton {
+    margin: 3%;
+    width: 30%;
+    visibility: hidden;
+}
+
+.checked {
+    color: orange;
+}
+
+
+.glow {
+    font-family: cursive;
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+    from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px yellowgreen, 0 0 40px yellowgreen, 0 0 50pxyellowgreen, 0 0 60px yellowgreen, 0 0 70px yellowgreen;
+    }
+
+    to {
+        text-shadow: 0 0 20px #fff, 0 0 30px palegoldenrod, 0 0 40px palegoldenrod, 0 0 50px palegoldenrod, 0 0 60px palegoldenrod, 0 0 70px palegoldenrod, 0 0 80px palegoldenrod;
+    }
+}
+
+.fontcursive, a {
+    font-family: cursive;
+}
+
+#left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: x-large;
+    font-family: cursive;
+    color: deepskyblue;
+}
+
+#formOfRegistration h2 {
+    text-align: center;
+}
+
+
